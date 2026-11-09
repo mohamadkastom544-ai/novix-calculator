@@ -5,7 +5,7 @@ package.name = novix
 package.domain = org.novix
 
 source.dir = .
-source.include_exts = py
+source.include_exts = py,png,jpg,kv,atlas
 
 version = 1.0
 
