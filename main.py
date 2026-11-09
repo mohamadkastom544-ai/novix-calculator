@@ -22,7 +22,7 @@ class CalculatorApp(App):
         )
 
         title = Label(
-            text="SABER CALCULATOR",
+            text="NOVIX CALCULATOR",
             font_size=23,
             size_hint=(1, 0.15),
             color=(0.6, 0.5, 1, 1)
